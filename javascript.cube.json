@@ -1,8 +1,28 @@
 {
-    "index": [
-        "main#easy#1.topic1/1.lesson1",
-        "main#easy#1.topic1/2.lesson2",
-        "main#easy#2.topic2/1.lesson1",
-        "main#easy#2.topic2/2.lesson2"
-    ]
+    "type": "javascript",
+    "time": 1579339252618,
+    "complete": 0,
+    "modified": 0,
+    "scenarios": [
+        "default.index",
+        "main.easy.index"
+    ],
+    "current": {
+        "lesson": "main#easy#1.topic1/1.lesson1",
+        "scenario": "default"
+    },
+    "result": {
+        "main#easy#1.topic1/1.lesson1": {
+            "test": "pending"
+        },
+        "main#easy#1.topic1/2.lesson2": {
+            "test": "pending"
+        },
+        "main#easy#2.topic2/1.lesson1": {
+            "test": "pending"
+        },
+        "main#easy#2.topic2/2.lesson2": {
+            "test": "pending"
+        }
+    }
 }
