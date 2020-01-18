@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "total": 1,
+    "failed": 0,
+    "passed": 1,
+    "startTime": 1578714566134,
+    "duration": 1647,
+    "endTime": 1578714567782,
+    "suites": [
+        {
+            "describe": "Test",
+            "file": "cube.test.js",
+            "test": [
+                {
+                    "fullName": "Test always-true test",
+                    "title": "always-true test",
+                    "status": true
+                }
+            ],
+            "total": 1,
+            "passed": 1,
+            "failed": 0,
+            "status": true
+        }
+    ]
+}
