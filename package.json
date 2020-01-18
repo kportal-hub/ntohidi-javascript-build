@@ -1,0 +1,29 @@
+{
+  "name": "default-bhub",
+  "version": "1.0.0",
+  "description": "Default template for building new course",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@octokit/rest": "^16.36.0",
+    "axios": "^0.19.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kportal-hub/default-bhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kportal-hub/default-bhub/issues"
+  },
+  "homepage": "https://github.com/kportal-hub/default-bhub#readme"
+}
